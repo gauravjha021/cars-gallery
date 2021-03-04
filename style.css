@@ -1,0 +1,38 @@
+/* Default Styles */
+* {
+  margin: 0;
+  padding: 0;
+  outline: none;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style-type: none;
+  font-family: "Special Elite", cursive;
+  font-weight: 400;
+}
+
+html {
+  font-size: 62.5;
+}
+
+body {
+  background-color: #ccc;
+}
+/* Custom Styles */
+
+/* Menu */
+.menu {
+  width: 4rem;
+  height: 4rem;
+  background-color: red;
+  position: fixed;
+  top: 2rem;
+  left: 2rem;
+}
+/* End of Menu */
+
+/* Navbar */
+.navbar {
+  width: 15vh;
+  height: 100vh;
+}
+/* End of Navbar */
